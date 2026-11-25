@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "silixworld-beep",
+    "email": "silixworld@gmail.com"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
